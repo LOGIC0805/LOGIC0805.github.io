@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>LOGIC0805</title>
   
-  <subtitle>Personal Site - Footprints on the Internet</subtitle>
+  <subtitle>My Footprints on the Internet</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://logic0805.github.io/"/>
-  <updated>2020-04-02T02:35:59.621Z</updated>
+  <updated>2020-04-02T08:44:36.933Z</updated>
   <id>http://logic0805.github.io/</id>
   
   <author>
@@ -17,26 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Welcome</title>
-    <link href="http://logic0805.github.io/2020/04/02/welcome/"/>
-    <id>http://logic0805.github.io/2020/04/02/welcome/</id>
-    <published>2020-04-02T02:35:59.000Z</published>
-    <updated>2020-04-02T02:35:59.621Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>Hello World</title>
     <link href="http://logic0805.github.io/2020/04/02/hello-world/"/>
     <id>http://logic0805.github.io/2020/04/02/hello-world/</id>
-    <published>2020-04-02T01:46:00.102Z</published>
-    <updated>2020-04-02T01:46:00.103Z</updated>
+    <published>2020-04-02T08:30:00.000Z</published>
+    <updated>2020-04-02T08:44:36.933Z</updated>
     
     <summary type="html">
     
@@ -44,13 +29,17 @@
       
         
         
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+          &lt;p&gt;欢迎来到我的主页！这是我的第一篇文章。&lt;br&gt;感谢洪卫大佬的博客搭建教程（&lt;a href=&quot;https://sunhwee.com/posts/6e8839eb.html#toc-heading-15）和姚东序同学（https://ray34.cn）的热心帮助！&quot;
         
       
     
     </summary>
     
     
+      <category term="日记" scheme="http://LOGIC0805.github.io/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+      <category term="Life" scheme="http://LOGIC0805.github.io/tags/Life/"/>
     
   </entry>
   
