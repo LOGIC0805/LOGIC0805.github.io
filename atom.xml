@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://logic0805.github.io/"/>
-  <updated>2020-04-02T08:44:36.933Z</updated>
+  <updated>2020-04-02T08:59:47.072Z</updated>
   <id>http://logic0805.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://logic0805.github.io/2020/04/02/hello-world/"/>
     <id>http://logic0805.github.io/2020/04/02/hello-world/</id>
     <published>2020-04-02T08:30:00.000Z</published>
-    <updated>2020-04-02T08:44:36.933Z</updated>
+    <updated>2020-04-02T08:59:47.072Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,7 @@
       
         
         
-          &lt;p&gt;欢迎来到我的主页！这是我的第一篇文章。&lt;br&gt;感谢洪卫大佬的博客搭建教程（&lt;a href=&quot;https://sunhwee.com/posts/6e8839eb.html#toc-heading-15）和姚东序同学（https://ray34.cn）的热心帮助！&quot;
+          &lt;p&gt;欢迎来到我的主页！这是我的第一篇文章。&lt;br&gt;感谢洪卫大佬的博客搭建教程【&lt;a href=&quot;https://sunhwee.com/posts/6e8839eb.html#toc-heading-15】&quot; target=&quot;_blank&quot;
         
       
     
@@ -40,6 +40,8 @@
     
     
       <category term="Life" scheme="http://LOGIC0805.github.io/tags/Life/"/>
+    
+      <category term="Try" scheme="http://LOGIC0805.github.io/tags/Try/"/>
     
   </entry>
   
