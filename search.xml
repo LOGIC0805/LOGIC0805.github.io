@@ -107,10 +107,22 @@
       </tags>
   </entry>
   <entry>
-    <title>2020-04-06日记</title>
-    <url>/2020/04/06/2020-04-06/</url>
-    <content><![CDATA[<p>2020年4月6日 晴 新乡</p>
-<p>今天天气晴朗，又是在家里期待开学的一天。<br>今天整天都在学习数学，发现学过的知识真的太容易忘记了。线代的东西一点也想不起来，而且书也在学校。<br>网站建设又又又又又又鸽了，而且下周开始要学习PHP，不知何时才会更新功能。</p>
+    <title>Hello World</title>
+    <url>/2020/04/02/hello-world/</url>
+    <content><![CDATA[<p>欢迎来到我的主页！这是我的第一篇文章。<br>感谢<a href="https://sunhwee.com/posts/6e8839eb.html#toc-heading-15" target="_blank" rel="noopener">洪卫大佬的博客搭建教程</a>以及<a href="https://ray34.cn" target="_blank" rel="noopener">姚东序同学</a>的热心帮助。<br>我会将这里当作我记录生活的地方，日记会尽量坚持每日更新，并且不定期地写写感想发发牢骚，或者分享一些学习心得和知识干货。<br>因为刚刚上手，小破站功能还未完善，留言板和评论等常用功能还未搭建，我会努力尽快在月内搭建完毕。<br>欢迎常来~</p>
+]]></content>
+      <categories>
+        <category>尝试</category>
+      </categories>
+      <tags>
+        <tag>Life</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2020-04-07日记</title>
+    <url>/2020/04/07/2020-04-07/</url>
+    <content><![CDATA[<p>2020年4月7日 晴 新乡</p>
+<p>今天天气晴朗，还是在家里期待开学的一天。<br>今天上了一天课，安装了PHP环境，准备开始学习PHP。并且和邓祎培同学安排好这个月学习Java，希望我们能实现这个小目标。<br>网站建设又拖了，最近应该会再拖延一段时间，PHP和Java是最近的任务。</p>
 <ul>
 <li>未解决的的问题：   <ol>
 <li>网站代码还未托管至国内Coding平台，所以访问速度较慢</li>
@@ -124,7 +136,7 @@
 </ul>
 <ul>
 <li>今日：   <ol>
-<li>了解并安装了Typora（需要努力了！！！！！！）</li>
+<li>学习了一些Typora的使用方法（需要努力了！！！！！！）</li>
 </ol>
 </li>
 </ul>
@@ -180,12 +192,37 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2020/04/02/hello-world/</url>
-    <content><![CDATA[<p>欢迎来到我的主页！这是我的第一篇文章。<br>感谢<a href="https://sunhwee.com/posts/6e8839eb.html#toc-heading-15" target="_blank" rel="noopener">洪卫大佬的博客搭建教程</a>以及<a href="https://ray34.cn" target="_blank" rel="noopener">姚东序同学</a>的热心帮助。<br>我会将这里当作我记录生活的地方，日记会尽量坚持每日更新，并且不定期地写写感想发发牢骚，或者分享一些学习心得和知识干货。<br>因为刚刚上手，小破站功能还未完善，留言板和评论等常用功能还未搭建，我会努力尽快在月内搭建完毕。<br>欢迎常来~</p>
+    <title>2020-04-06日记</title>
+    <url>/2020/04/06/2020-04-06/</url>
+    <content><![CDATA[<p>2020年4月6日 晴 新乡</p>
+<p>今天天气晴朗，又是在家里期待开学的一天。<br>今天整天都在学习数学，发现学过的知识真的太容易忘记了。线代的东西一点也想不起来，而且书也在学校。<br>网站建设又又又又又又鸽了，而且下周开始要学习PHP，不知何时才会更新功能。</p>
+<ul>
+<li>未解决的的问题：   <ol>
+<li>网站代码还未托管至国内Coding平台，所以访问速度较慢</li>
+<li>不蒜子站点统计出错</li>
+<li>站点构建运行时间未显示</li>
+<li>文章置顶后图标链接无法点击</li>
+<li>留言板及评论功能还未添加</li>
+<li>熟悉Typora的使用方法</li>
+</ol>
+</li>
+</ul>
+<ul>
+<li>今日：   <ol>
+<li>了解并安装了Typora（需要努力了！！！！！！）</li>
+</ol>
+</li>
+</ul>
+<ul>
+<li>近期目标（前N天天欠下的任务）：<ol>
+<li>了解国内托管平台，加速网站的打开</li>
+<li>尝试解决文章置顶产生的问题，以及学习md文件图片和视频的插入</li>
+</ol>
+</li>
+</ul>
 ]]></content>
       <categories>
-        <category>尝试</category>
+        <category>日记</category>
       </categories>
       <tags>
         <tag>Life</tag>
